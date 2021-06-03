@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e490cb0e-0674-457b-aac7-310659609698" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qTnwP1hJlfHp5YhM6V6f233fDp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/source/ModernJavaInAction-master" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Ch4DishTest.quiz5_2_2">
+    <configuration name="Ch4DishTest.flatMapTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ch4.streamBasic.Ch4DishTest.flatMapTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ch4DishTest.mapTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ch4.streamBasic.Ch4DishTest.mapTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ch4DishTest.quiz5_1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ch4.streamBasic.Ch4DishTest.quiz5_1&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ch4DishTest.quiz5_2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ch4.streamBasic.Ch4DishTest.quiz5_2&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ch4DishTest.quiz5_2_2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ch4.streamBasic.Ch4DishTest.quiz5_2_2&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Ch4DishTest.quiz5_2_2" />
+        <item itemvalue="Gradle.Ch4DishTest.quiz5_2" />
+        <item itemvalue="Gradle.Ch4DishTest.flatMapTest" />
+        <item itemvalue="Gradle.Ch4DishTest.mapTest" />
+        <item itemvalue="Gradle.Ch4DishTest.quiz5_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e490cb0e-0674-457b-aac7-310659609698" name="Default Changelist" comment="" />
+      <created>1617112684192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617112684192</updated>
+      <workItem from="1617112689730" duration="2790000" />
+      <workItem from="1617197769408" duration="2630000" />
+      <workItem from="1617366725879" duration="4913000" />
+      <workItem from="1618230279877" duration="10000" />
+      <workItem from="1620651269255" duration="3207000" />
+      <workItem from="1620826470248" duration="810000" />
+      <workItem from="1621254222937" duration="5048000" />
+      <workItem from="1621945408229" duration="5774000" />
+      <workItem from="1622119280170" duration="3404000" />
+      <workItem from="1622552846913" duration="5187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1621254657601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621254657601" />
+    <state x="674" y="436" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1622725752307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="436" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622725752307" />
+    <state x="746" y="360" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620655556219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="360" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1620655556219" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1622555202343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1622555202343" />
+    <state width="1877" height="303" key="GridCell.Tab.0.bottom" timestamp="1622558408746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622558408746" />
+    <state width="1877" height="303" key="GridCell.Tab.0.center" timestamp="1622558408745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622558408745" />
+    <state width="1877" height="303" key="GridCell.Tab.0.left" timestamp="1622558408745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622558408745" />
+    <state width="1877" height="303" key="GridCell.Tab.0.right" timestamp="1622558408745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622558408745" />
+    <state width="1877" height="527" key="GridCell.Tab.1.bottom" timestamp="1622126740032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="527" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622126740032" />
+    <state width="1877" height="527" key="GridCell.Tab.1.center" timestamp="1622126740032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="527" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622126740032" />
+    <state width="1877" height="527" key="GridCell.Tab.1.left" timestamp="1622126740032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="527" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622126740032" />
+    <state width="1877" height="527" key="GridCell.Tab.1.right" timestamp="1622126740032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="527" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622126740032" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1622553498954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1622553498954" />
+    <state x="629" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1622725701845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622725701845" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1622555259224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1622555259224" />
+  </component>
+</project>
